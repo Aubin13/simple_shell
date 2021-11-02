@@ -1,0 +1,1 @@
+This is a group project, we code our own simple_shell.
